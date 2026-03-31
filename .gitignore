@@ -1,0 +1,66 @@
+projectenv/
+.projectenv/
+.projectvenv/
+.vscode/
+hallucination-firewall.txt
+*.log
+*.ipynb
+.vscode/
+__pycache__/
+logs/
+.env
+__init__.py
+
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.so
+
+venv/
+env/
+.venv/
+*.pdf
+.env
+
+.ipynb_checkpoints/
+
+*.pkl
+*.pkl
+*.pkl
+test/
+
+*.index
+*.pkl
+
+# 📊 Dataset (optional - if large/private)
+
+*.json
+
+# 📝 Logs
+
+logs/
+*.log
+
+# 🧪 Testing / temp files
+
+*.tmp
+*.bak
+
+# 🖥️ OS files
+
+.DS_Store
+Thumbs.db
+
+# 🧰 IDE / Editor
+
+.vscode/
+.idea/
+
+# 🐳 Docker
+
+*.pid
+*.seed
+hallucination-firewall.txt
